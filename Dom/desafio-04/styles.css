@@ -1,0 +1,62 @@
+#efeito {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+
+.destaque {
+	background-color: red;
+	width: 200px !important;
+}
+
+.encolher {
+	background-color: gray;
+	width: 50px !important;
+}
+
+.exemplo {
+	width: 50px;
+	height: 50px;
+	background-color: darkblue;
+	border-radius: 5px;
+	box-shadow: cornflowerblue;
+}
+
+.exemplo2 {
+	width: 70px;
+	height: 70px;
+	background-color: pink;
+	border-radius: 10px;
+	box-shadow: chocolate;
+}
+
+.classe1 {
+	background-color: purple;
+}
+
+.classe2 {
+	color: yellow;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.quadrado {
+	width: 100px;
+	height: 100px;
+}
+.redondo {
+	background-color: blue;
+	border-radius: 50%;
+	border: 2px solid black;
+}
+
+.barra-progresso {
+	height: 30px;
+	width: 200px;
+	border: 1px solid #000;
+}
+
+.progresso {
+	background-color: red;
+	height: 100%;
+}
